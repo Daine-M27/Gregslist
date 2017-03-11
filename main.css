@@ -1,1 +1,17 @@
-asdfd
+
+
+/*My stuff starts here*/
+header {
+	background-color: lightgrey;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	border-bottom: 1px solid grey;
+}
+
+.logo {
+	font-size: 	20px;
+	list-style: none;
+	text-decoration: none;	
+}
